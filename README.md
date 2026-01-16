@@ -4,7 +4,7 @@ Smart Email AI Assistant
 
 •	Developed backend using Spring Boot and frontend using React.
 
-•	Integrated OpenAI API for natural language processing and smart email generation.
+•	Integrated Gemini API for natural language processing and smart email generation.
 
 •	Created a browser extension to allow users to use the assistant directly inside their email client.
 
