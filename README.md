@@ -8,4 +8,4 @@ Smart Email AI Assistant
 
 •	Created a browser extension to allow users to use the assistant directly inside their email client.
 
-•	Tech Stack: Spring Boot, React, OpenAI API, JavaScript, REST API
+•	Tech Stack: Spring Boot, React, Gemini API, JavaScript, REST API
